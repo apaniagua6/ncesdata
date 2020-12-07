@@ -18,3 +18,6 @@ NonFiscal / {State, District, School} / {School-Year}
 
 # Pipeline
 1. download data set
+
+Todo: save as state/type_unique_id.csv
+Do a merge on te data sets
